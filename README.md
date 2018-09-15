@@ -70,7 +70,7 @@ console.log(periodsInYearZone);
  и заканчиваются в СЕНТЯБРЕ
 ```
 
-```
+```js
 Входные параметры
 
 var periods = [ 
